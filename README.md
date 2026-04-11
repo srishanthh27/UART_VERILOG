@@ -76,4 +76,4 @@ run 1000
 ---
 
 ## 👩‍💻 Author
-SATHVIKA BOGAM
+SRISHANTH KORRA
